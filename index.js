@@ -16,4 +16,7 @@ function johnLennonFacts(facts){
   return facts
 }
 
-function iLoveTheBeatles(n)
+function iLoveTheBeatles(n){
+  var arr = []
+  do
+}
